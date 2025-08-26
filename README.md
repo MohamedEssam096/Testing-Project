@@ -8,6 +8,6 @@ This repository is created for our Graduation Project.
 - Kareem Mostafa
 - Magid Atif
 - Mohamed Nagah
-- 
+
 ## Notes
 The project details and source code will be added soon.

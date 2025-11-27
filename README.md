@@ -9,5 +9,4 @@ This repository is created for our Graduation Project.
 - Magid Atif
 - Mohamed Nagah
 
-## Notes
-The project details and source code will be added soon.
+## this is Automation testing on Automationexercise.com features.
